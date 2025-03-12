@@ -82,7 +82,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -120,7 +120,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -157,7 +157,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -195,7 +195,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -284,7 +284,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -322,7 +322,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -360,7 +360,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -398,7 +398,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -436,7 +436,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -525,7 +525,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -563,7 +563,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -601,7 +601,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
@@ -639,7 +639,7 @@ int main()
                                 // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
                                 if (quantidade <= 0){
                                     // Solicita a quantidade do produto
-                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    printf("Por favor, informe a quantidade de produto maior que 0: ");
                                     // Guarda a escolha do usuário
                                     scanf("%d", &quantidade);
                                 }//Aqui finaliza o IF
