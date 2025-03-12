@@ -535,7 +535,7 @@ int main()
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 9.50;
                             // Atualiza o total gasto na categoria 3. Padaria
-                            total_alimentos += valorCompra;
+                            total_padaria += valorCompra;
                             // Totaliza todas as categorias para calcular o valor total
                             total = total_alimentos + total_limpeza + total_padaria;
                             // Quebra de linha
@@ -573,7 +573,7 @@ int main()
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 12.50;
                             // Atualiza o total gasto na categoria 3. Padaria
-                            total_alimentos += valorCompra;
+                            total_padaria += valorCompra;
                             // Totaliza todas as categorias para calcular o valor total
                             total = total_alimentos + total_limpeza + total_padaria;
                             // Quebra de linha
@@ -611,7 +611,7 @@ int main()
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 1.90;
                             // Atualiza o total gasto no setor
-                            total_alimentos += valorCompra;
+                            total_padaria += valorCompra;
                             // Totaliza todas as categorias para calcular o valor total
                             total = total_alimentos + total_limpeza + total_padaria;
                             // Quebra de linha
@@ -649,7 +649,7 @@ int main()
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 8.50;
                             // Atualiza o total gasto na categoria 3. Padaria
-                            total_alimentos += valorCompra;
+                            total_padaria += valorCompra;
                             // Totaliza todas as categorias para calcular o valor total
                             total = total_alimentos + total_limpeza + total_padaria;
                             // Quebra de linha
