@@ -76,6 +76,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 1.99;
                             // Atualiza o total gasto na categoria 1. Material de Limpeza
@@ -101,6 +114,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                            // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 8.99;
                             // Atualiza o total gasto na categoria 1. Material de Limpeza
@@ -126,6 +152,18 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 1.50;
                             // Atualiza o total gasto na categoria 1. Material de Limpeza
@@ -151,6 +189,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 15.00;
                             // Atualiza o total gasto na categoria 1. Material de Limpeza
@@ -227,6 +278,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 19.99;
                             // Atualiza o total gasto na categoria 2. Venda de Alimentos
@@ -252,6 +316,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 5.90;
                             // Atualiza o total gasto na categoria 2. Venda de Alimentos
@@ -277,6 +354,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 4.50;
                             // Atualiza o total gasto na categoria 2. Venda de Alimentos
@@ -302,6 +392,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 8.00;
                             // Atualiza o total gasto na categoria 2. Venda de Alimentos
@@ -327,6 +430,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 5.00;
                             // Atualiza o total gasto na categoria 2. Venda de Alimentos
@@ -403,6 +519,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 9.50;
                             // Atualiza o total gasto na categoria 3. Padaria
@@ -428,6 +557,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 12.50;
                             // Atualiza o total gasto na categoria 3. Padaria
@@ -453,6 +595,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a opção do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 1.90;
                             // Atualiza o total gasto no setor
@@ -478,6 +633,19 @@ int main()
                             printf("Informe a quantidade do produto: ");
                             // Guarda a escolha do usuário
                             scanf("%d", &quantidade);
+
+                             // Aqui começa o Do While para tratativa de erro sobre produto negativo
+                            do{
+                                // Estamos observando se a quantidade informada pelo usuario foi negativa caso ela for ele entrara no IF
+                                if (quantidade <= 0){
+                                    // Solicita a quantidade do produto
+                                    printf("Favor informe a quantidade do produto mair que 0: ");
+                                    // Guarda a escolha do usuário
+                                    scanf("%d", &quantidade);
+                                }//Aqui finaliza o IF
+                            // Encerramento do Do While para ver se a quantidade for menor que 0 caso sim ele ficara em um loop
+                            }while (quantidade <= 0);
+
                             // Calcula o valor que o cliente deve pagar
                             valorCompra = quantidade * 8.50;
                             // Atualiza o total gasto na categoria 3. Padaria
@@ -697,6 +865,12 @@ int main()
                                     // Exibindo que o pagamento foi concluído
                                     printf("Pagamento realizado com sucesso! :D \n"
                                             "O valor pago foi de: R$ %.2f \n", total);
+
+                                    // Categorias zeradas para serem usadas no histórico
+                                    total_alimentos = 0;
+                                    total_limpeza = 0;
+                                    total_padaria = 0;
+
                                     // Faz o case 1 parar
                                     break;
 
